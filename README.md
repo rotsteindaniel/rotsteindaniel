@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Daniel Rotstein Gonçalves
+
+- 🌱 I’m currently learning Web development, and studying strategic planning and analysis systems development on Estácio de Sá University. 
+
+- 📫 How to reach me: rotsteindaniel@gmail.com
+
 <!--
 **rotsteindaniel/rotsteindaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
