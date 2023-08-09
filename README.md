@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on my skiils and seeking my first job.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Typescript, Node.js, React, Git e Github.
+- 🔭 I’m currently working on my skiils.
+- 🌱 I’m currently learning ReactJS | Typescript | Node | PHP | SQL | Git | Github.
 - 💬 I was a martial art instructor (7 years teaching) and I'm learning new skills and changing my carrer!
 - 📫 How to reach me: rotsteindaniel@gmail.com
 - ⚡ Fun fact: I like to skydive.
