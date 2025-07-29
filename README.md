@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on my skiils.
 - 🌱 ReactJS | Typescript | Node | SQL | Git | Github.
-- 💬 I was a martial art instructor (9 years teaching) and I'm learning new skills and changing my carrer!
+- 💬 I was a martial art instructor and I'm learning new skills and changing my carrer!
 - 📫 How to reach me: rotsteindaniel@gmail.com
 - ⚡ Fun fact: I like to skydive.
 
